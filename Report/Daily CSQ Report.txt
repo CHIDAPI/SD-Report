@@ -1,0 +1,165 @@
+Calls Handled  23.0
+Calls Abandoned  1.0
+Calls Presented  30.0
+Handled  28.0
+Abandoned  2.0
+Calls Handled  23.0
+Calls Abandoned  1.0
+Calls Presented  30.0
+Handled  28.0
+Abandoned  2.0
+Calls Handled  23.0
+Calls Abandoned  1.0
+Calls Presented  30.0
+Handled  28.0
+Abandoned  2.0
+Calls Handled  80.0
+Calls Abandoned  1.0
+Calls Presented  94.0
+Handled  89.0
+Abandoned  5.0
+Calls Handled  80.0
+Calls Abandoned  1.0
+Calls Presented  94.0
+Handled  89.0
+Abandoned  5.0
+Calls Handled  83.0
+Calls Abandoned  3.0
+Calls Presented  102.0
+Handled  94.0
+Abandoned  7.0
+Calls Handled  118.0
+Calls Abandoned  5.0
+Calls Presented  127.0
+Handled  121.0
+Abandoned  6.0
+Calls Handled  96.0
+Calls Abandoned  3.0
+Calls Presented  110.0
+Handled  107.0
+Abandoned  3.0
+Calls Handled  89.0
+Calls Abandoned  2.0
+Calls Presented  127.0
+Handled  103.0
+Abandoned  15.0
+Calls Handled  82.0
+Calls Abandoned  3.0
+Calls Presented  88.0
+Handled  85.0
+Abandoned  3.0
+Calls Handled  76.0
+Calls Abandoned  2.0
+Calls Presented  92.0
+Handled  86.0
+Abandoned  6.0
+Calls Handled  91.0
+Calls Abandoned  6.0
+Calls Presented  111.0
+Handled  102.0
+Abandoned  7.0
+Calls Handled  74.0
+Calls Abandoned  2.0
+Calls Presented  87.0
+Handled  81.0
+Abandoned  5.0
+Calls Handled  103.0
+Calls Abandoned  6.0
+Calls Presented  141.0
+Handled  126.0
+Abandoned  12.0
+Calls Handled  104.0
+Calls Abandoned  1.0
+Calls Presented  108.0
+Handled  106.0
+Abandoned  2.0
+Calls Handled  120.0
+Calls Abandoned  8.0
+Calls Presented  171.0
+Handled  148.0
+Abandoned  20.0
+Calls Handled  95.0
+Calls Abandoned  4.0
+Calls Presented  111.0
+Handled  99.0
+Abandoned  9.0
+Calls Handled  74.0
+Calls Abandoned  4.0
+Calls Presented  90.0
+Handled  80.0
+Abandoned  10.0
+Calls Handled  112.0
+Calls Abandoned  7.0
+Calls Presented  141.0
+Handled  123.0
+Abandoned  17.0
+Calls Handled  99.0
+Calls Abandoned  3.0
+Calls Presented  106.0
+Handled  103.0
+Abandoned  3.0
+Calls Handled  99.0
+Calls Abandoned  3.0
+Calls Presented  103.0
+Handled  100.0
+Abandoned  3.0
+Calls Handled  82.0
+Calls Abandoned  8.0
+Calls Presented  115.0
+Handled  98.0
+Abandoned  16.0
+Calls Handled  112.0
+Calls Abandoned  10.0
+Calls Presented  155.0
+Handled  136.0
+Abandoned  16.0
+Calls Handled  129.0
+Calls Abandoned  4.0
+Calls Presented  135.0
+Handled  131.0
+Abandoned  4.0
+Calls Handled  94.0
+Calls Abandoned  4.0
+Calls Presented  100.0
+Handled  96.0
+Abandoned  4.0
+Calls Handled  100.0
+Calls Abandoned  7.0
+Calls Presented  118.0
+Handled  108.0
+Abandoned  9.0
+Calls Handled  75.0
+Calls Abandoned  0.0
+Calls Presented  91.0
+Handled  87.0
+Abandoned  4.0
+Calls Handled  115.0
+Calls Abandoned  11.0
+Calls Presented  132.0
+Handled  120.0
+Abandoned  11.0
+Calls Handled  93.0
+Calls Abandoned  5.0
+Calls Presented  111.0
+Handled  104.0
+Abandoned  7.0
+Calls Handled  105.0
+Calls Abandoned  4.0
+Calls Presented  116.0
+Handled  109.0
+Abandoned  7.0
+Calls Handled  109.0
+Calls Abandoned  5.0
+Calls Presented  128.0
+Handled  117.0
+Abandoned  10.0
+Calls Handled  86.0
+Calls Abandoned  6.0
+Calls Presented  95.0
+Handled  89.0
+Abandoned  6.0
+Calls Handled  91.0
+Calls Abandoned  6.0
+Calls Presented  97.0
+Handled  91.0
+Abandoned  6.0

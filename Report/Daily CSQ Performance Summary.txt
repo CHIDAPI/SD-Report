@@ -1,0 +1,28 @@
+Date  2019-07-15
+Avg Queue Time - Calls Presented  00:00:17
+Max Queue Time - Calls Presented  00:02:59
+Avg Handle Time  00:04:14
+Max Handle Time  00:19:37
+Avg Queue Time - Calls Abandoned  00:00:27
+Avg Queue Time - Calls Abandoned  00:00:48
+Date  2019-07-15
+Avg Queue Time - Calls Presented  00:00:17
+Max Queue Time - Calls Presented  00:02:59
+Avg Handle Time  00:04:14
+Max Handle Time  00:19:37
+Avg Queue Time - Calls Abandoned  00:00:27
+Avg Queue Time - Calls Abandoned  00:00:48
+Date  2019-07-15
+Avg Queue Time - Calls Presented  00:00:17
+Max Queue Time - Calls Presented  00:02:59
+Avg Handle Time  00:04:14
+Max Handle Time  00:19:37
+Avg Queue Time - Calls Abandoned  00:00:27
+Avg Queue Time - Calls Abandoned  00:00:48
+Date  2019-07-24
+Avg Queue Time - Calls Presented  00:00:16
+Max Queue Time - Calls Presented  00:02:14
+Avg Handle Time  00:06:12
+Max Handle Time  00:38:41
+Avg Queue Time - Calls Abandoned  00:01:45
+Avg Queue Time - Calls Abandoned  00:01:45
